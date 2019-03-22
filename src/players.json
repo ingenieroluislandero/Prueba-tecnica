@@ -1,0 +1,51 @@
+{
+   "players" : [
+       {
+           "name": "ADF",
+           "punc": "3000"
+
+       },
+       {
+        
+        "name": "GFV",
+        "punc": "4000"
+
+        },
+        {
+            
+            "name": "GVD",
+            "punc": "2500"
+ 
+        },
+        {
+           
+            "name": "BGV",
+            "punc": "1500"
+ 
+        },
+        {
+           
+            "name": "RFD",
+            "punc": "3000"
+ 
+        },
+        {
+            
+            "name": "YAQ",
+            "punc": "4500"
+ 
+        },
+        {
+            
+            "name": "FRP",
+            "punc": "2500"
+ 
+        },
+        {
+            
+            "name": "PPA",
+            "punc": "2800"
+ 
+        }
+   ]
+}
